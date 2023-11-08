@@ -15,10 +15,10 @@ public class FundamentsJava {
        
        int edad;
      
-       edad = 22;
+       edad = 28;
                
-       String nombre = "Yair";
-       double salario = 400000;
+       String nombre = "juan";
+       double salario = 250000;
        
         System.out.println("Soy " + nombre + " tengo " + edad + " años y mi sueldo es de " + salario);
        
